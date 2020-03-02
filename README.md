@@ -3,6 +3,7 @@
 ## Day 2
 ## Day 3
 ## Day 4
-1. **Task 1**: (Basic CSS style)
+1. **Task 1**:
+ (Basic CSS style)
 ## Day 5
 
